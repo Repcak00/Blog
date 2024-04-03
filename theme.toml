@@ -1,48 +1,19 @@
-demosite = "https://willfaught.com/paige"
-description = "Powerful, pliable pixel perfection. An advanced Hugo theme."
-features = [
-  "accessibility",
-  "blog",
-  "bootstrap",
-  "customizable",
-  "facebook sharing",
-  "google analytics",
-  "header links",
-  "landing page",
-  "light color scheme",
-  "math typesetting",
-  "menus",
-  "minimal design",
-  "responsive",
-  "safari and firefox reader view",
-  "search",
-  "sections",
-  "seo",
-  "single column",
-  "social links",
-  "twitter sharing"
-]
-homepage = "https://github.com/willfaught/paige"
+name = "Bilberry Hugo Theme"
 license = "MIT"
-licenselink = "https://www.apache.org/licenses/LICENSE-2.0"
-name = "Paige"
-tags = [
-  "blog",
-  "bootstrap",
-  "contact",
-  "dark",
-  "dark mode",
-  "gallery",
-  "hero",
-  "landing",
-  "light",
-  "minimal",
-  "multilingual",
-  "personal",
-  "portfolio",
-  "responsive"
-]
+licenselink = "https://github.com/Lednerb/bilberry-hugo-theme/blob/master/LICENSE.md"
+description = "Bilberry is a premium Hugo theme with many great features. This is a Hugo adaptation and further optimization of the Lingonberry WordPress theme by Anders Norén."
+
+homepage = "https://github.com/Lednerb/bilberry-hugo-theme"
+demosite = "https://lednerb.github.io/bilberry-hugo-theme"
+
+tags = ["blog", "personal", "responsive", "commento", "comments", "disabled javascript", "gallery", "code", "coding", "programming", "audio", "video", "algolia", "disqus", "search", "font awesome", "pages", "posts", "multilingual", "highlight.js", "syntax highlighting", "premium", "shortcuts"]
+features = ["search", "algolia integration", "post types", "i18n", 'multilingual', 'blog', 'google analytics', 'comments', 'disqus integration', "highlight.js", "syntax highlighting", "premium theme", "shortcuts"]
 
 [author]
-homepage = "https://willfaught.com"
-name = "Will Faught"
+  name = "Lednerb | Sascha Brendel"
+  homepage = "https://sascha-brendel.de"
+
+[original]
+  name = "Lingonberry"
+  homepage = "https://andersnoren.se/teman/lingonberry-wordpress-theme/"
+  repo = "https://wordpress.org/themes/lingonberry/"

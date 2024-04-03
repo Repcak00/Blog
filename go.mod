@@ -1,3 +1,3 @@
-module github.com/willfaught/paige
+module github.com/Lednerb/bilberry-hugo-theme/v3
 
-go 1.19
+go 1.18
